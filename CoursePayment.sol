@@ -6,7 +6,7 @@ contract Ownable {
 
     event OwnershipTransferred(address indexed previousOwner, address indexed newOwner);
 
-    /*from openzelline*/
+    /*from openzeppelin*/
     /**
      * @dev Initializes the contract setting the address provided by the deployer as the initial owner.
      */
